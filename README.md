@@ -2,6 +2,8 @@
 
 This is a simple expense tracker application built with React, Bootstrap, and Zod. It allows users to track their expenses by entering a description, amount, and category for each expense item. The application provides filtering functionality to view expenses based on selected categories.
 
+You can access the live version of the Expense Tracker app [here](https://expense-tracker-app-gray.vercel.app/).
+
 ## Features
 
 - Add new expense items with a description, amount, and category.
